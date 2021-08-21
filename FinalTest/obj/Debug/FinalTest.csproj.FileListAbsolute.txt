@@ -1,0 +1,739 @@
+D:\FinalTest\API\FinalTest\FinalTest\bin\ApplicationInsights.config
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\csc.exe
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\vbc.exe
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe
+D:\FinalTest\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\FinalTest\API\FinalTest\FinalTest\bin\FinalTest.dll.config
+D:\FinalTest\API\FinalTest\FinalTest\bin\FinalTest.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\FinalTest.pdb
+D:\FinalTest\API\FinalTest\FinalTest\bin\Antlr3.Runtime.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\EntityFramework.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\MySql.Data.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Newtonsoft.Json.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Owin.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Cors.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Helpers.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Mvc.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Optimization.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Razor.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.WebPages.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\WebGrease.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Google.Protobuf.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Zstandard.Net.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.Streams.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\BouncyCastle.Crypto.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Ubiety.Dns.Core.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Renci.SshNet.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Buffers.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\K4os.Hash.xxHash.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\MySql.Data.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Newtonsoft.Json.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Helpers.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Mvc.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Optimization.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Razor.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.WebPages.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Antlr3.Runtime.pdb
+D:\FinalTest\API\FinalTest\FinalTest\bin\EntityFramework.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FinalTest\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.xml
+D:\FinalTest\API\FinalTest\FinalTest\obj\Debug\FinalTest.csprojResolveAssemblyReference.cache
+D:\FinalTest\API\FinalTest\FinalTest\obj\Debug\FinalTest.dll
+D:\FinalTest\API\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\ApplicationInsights.config
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\csc.exe
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\vbc.exe
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\FinalTest.dll.config
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\FinalTest.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\FinalTest.pdb
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Antlr3.Runtime.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\EntityFramework.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\MySql.Data.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Newtonsoft.Json.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Owin.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Cors.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Helpers.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Mvc.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Optimization.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Razor.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.WebPages.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\WebGrease.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Google.Protobuf.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Zstandard.Net.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.Streams.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\BouncyCastle.Crypto.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Ubiety.Dns.Core.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Renci.SshNet.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Buffers.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\K4os.Hash.xxHash.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\MySql.Data.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Newtonsoft.Json.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Helpers.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Mvc.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Optimization.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Razor.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.WebPages.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Antlr3.Runtime.pdb
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\EntityFramework.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.xml
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\obj\Debug\FinalTest.csprojResolveAssemblyReference.cache
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\obj\Debug\FinalTest.dll
+D:\Projects\FinalWeb\API\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\ApplicationInsights.config
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\csc.exe
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\vbc.exe
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\FinalTest.dll.config
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\FinalTest.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\FinalTest.pdb
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Antlr3.Runtime.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\EntityFramework.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\MySql.Data.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Newtonsoft.Json.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Owin.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Cors.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Helpers.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Mvc.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Optimization.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Razor.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.WebPages.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\WebGrease.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Google.Protobuf.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Zstandard.Net.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.Streams.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\BouncyCastle.Crypto.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Ubiety.Dns.Core.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Renci.SshNet.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Buffers.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\K4os.Hash.xxHash.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\MySql.Data.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Newtonsoft.Json.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Helpers.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Mvc.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Optimization.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Razor.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.WebPages.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Antlr3.Runtime.pdb
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\EntityFramework.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.xml
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\obj\Debug\FinalTest.dll
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
+D:\Projects\FinalWeb\V2\API\FinalTest\FinalTest\obj\Debug\FinalTest.csprojResolveAssemblyReference.cache
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\ApplicationInsights.config
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\csc.exe
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\vbc.exe
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\FinalTest.dll.config
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\FinalTest.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\FinalTest.pdb
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Antlr3.Runtime.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\EntityFramework.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\MySql.Data.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Newtonsoft.Json.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Owin.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Cors.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Helpers.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Mvc.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Optimization.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Razor.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.WebPages.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\WebGrease.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Google.Protobuf.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Zstandard.Net.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.Streams.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\BouncyCastle.Crypto.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Ubiety.Dns.Core.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Renci.SshNet.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Buffers.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\K4os.Hash.xxHash.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\MySql.Data.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Newtonsoft.Json.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Helpers.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Mvc.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Optimization.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Razor.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.WebPages.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Antlr3.Runtime.pdb
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\EntityFramework.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.xml
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\obj\Debug\FinalTest.csprojResolveAssemblyReference.cache
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\obj\Debug\FinalTest.dll
+D:\Projects\FinalWeb\V2\V12\API\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\ApplicationInsights.config
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\csc.exe
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\vbc.exe
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.dll.config
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.pdb
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Antlr3.Runtime.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\MySql.Data.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Newtonsoft.Json.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Owin.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Cors.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Helpers.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Mvc.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Optimization.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Razor.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\WebGrease.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Google.Protobuf.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Zstandard.Net.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.Streams.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\BouncyCastle.Crypto.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Ubiety.Dns.Core.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Renci.SshNet.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Buffers.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\K4os.Hash.xxHash.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\MySql.Data.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Newtonsoft.Json.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Helpers.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Mvc.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Optimization.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Razor.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Antlr3.Runtime.pdb
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.xml
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.csprojResolveAssemblyReference.cache
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.dll
+D:\Projects\FinalWeb\V12\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\ApplicationInsights.config
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\csc.exe
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\System.Collections.Immutable.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\System.Reflection.Metadata.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\vbc.exe
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe.config
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.dll.config
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.pdb
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Antlr3.Runtime.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Agent.Intercept.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Web.Infrastructure.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Newtonsoft.Json.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Owin.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Cors.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Helpers.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Mvc.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Optimization.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Razor.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\WebGrease.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Google.Protobuf.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Zstandard.Net.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.Streams.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\BouncyCastle.Crypto.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Ubiety.Dns.Core.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Renci.SshNet.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Buffers.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\K4os.Hash.xxHash.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Memory.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\MySql.Data.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Newtonsoft.Json.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Helpers.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Mvc.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Optimization.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Razor.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Antlr3.Runtime.pdb
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.xml
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.csprojAssemblyReference.cache
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CoreCompileInputs.cache
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CopyComplete
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.dll
+G:\B & N Opimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\ApplicationInsights.config
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\csc.exe
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\System.Collections.Immutable.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\System.Reflection.Metadata.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\vbc.exe
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\roslyn\VBCSCompiler.exe.config
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.dll.config
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\FinalTest.pdb
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Antlr3.Runtime.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Agent.Intercept.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Web.Infrastructure.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Newtonsoft.Json.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Owin.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Cors.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Helpers.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Mvc.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Optimization.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Razor.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\WebGrease.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Google.Protobuf.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Zstandard.Net.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.Streams.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\BouncyCastle.Crypto.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Ubiety.Dns.Core.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Renci.SshNet.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Buffers.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\K4os.Compression.LZ4.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\K4os.Hash.xxHash.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Memory.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.DependencyCollector.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.Web.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AI.WindowsServer.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.ApplicationInsights.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\MySql.Data.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Net.Http.Formatting.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Cors.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Newtonsoft.Json.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Helpers.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.WebHost.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Mvc.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Optimization.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Razor.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Deployment.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.WebPages.Razor.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Antlr3.Runtime.pdb
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\EntityFramework.SqlServer.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Google.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\bin\System.Web.Http.Owin.xml
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.csprojAssemblyReference.cache
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CoreCompileInputs.cache
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CopyComplete
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.dll
+G:\BNNOpimus\ToShane\V12 - API\API\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
